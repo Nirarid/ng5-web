@@ -72,7 +72,7 @@ constructor(private _data: DataService,
 //    this.goals.push(this.goalText);
 
 
-    var mytoken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImFkc29mdCIsImV4cCI6MTYzNDc5NTgwMiwib3JpZ0lhdCI6MTYzNDc5NTUwMn0._6tOsFeS7Li59toIpxyD1rDNi_HXnjvcDPBjoKXNcUk";
+    var mytoken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImZlcm5hbmRvdSIsImV4cCI6MTYzNTk2NzUxMCwib3JpZ0lhdCI6MTYzNTk2NzIxMH0.hO8ONRnmMrATPsRB57HN38WRaKu-g1oWHhPbZaF85eQ";
     //this.storageService.getSession("token");
     alert(this.goalText);
 
